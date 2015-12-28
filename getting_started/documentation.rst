@@ -100,7 +100,7 @@ must:
     otherwise you will slow down the implementation. More is better,
     the fastest implementations have a full time project manager.
 
--   **have authority to take decisions** on their own. Odoo usually
+-   **have authority to make decisions** on their own. Odoo usually
     transforms all departments of companies for the better. In such a
     project, you have a lot of decisions to take on small details. If
     there is too much back and forth between several decision makers,
@@ -133,7 +133,7 @@ customization.
     customizations, phase them in at the end of the project, ideally
     after going into production. Once a customer starts using Odoo,
     they usually drop about 60% of their customization requests as
-    they learn to do it the out of the box Odoo way. It is more
+    they learn to do it out of the box the Odoo way. It is more
     important to have all your business processes working than
     customizing a screen to add fields or automate a few e-mails.
 
